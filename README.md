@@ -24,3 +24,6 @@ link: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejm
 4. Run 1vs1.lol
 
 5. FINISHED!!
+
+[SAFE❓]
+This script is FULLY SAFE, that means it ISNT A VIRUS or idk trojan.
