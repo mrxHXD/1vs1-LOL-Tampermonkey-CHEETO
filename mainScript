@@ -337,7 +337,7 @@ el.innerHTML = `<style>
 }
  
 </style>
-<div class="dialog">${shouldShowAd ? `<big><big> <img src="https://cdn.discordapp.com/attachments/1002382084859506740/1064143315731230800/01157-unscreen.gif"
+<div class="dialog">${shouldShowAd ? `<big><big> <img src="https://cdn.discordapp.com/attachments/1227002395834454017/1230857414824296558/galaxy.gif?ex=6634d84b&is=6622634b&hm=f119d8f936cbd91a058d60b20e0d878a04e881e5c627b365b9744a60a507354e&"
 </body>
   <br>
   𝙀𝙎𝙋 & 𝙎𝙤𝙛𝙩𝘼𝙞𝙢
