@@ -21,7 +21,7 @@ link: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejm
 3. Paste the mainScript code in it
 ...save it
 
-4. Run 1vs1.lol
+4. Run 1vs1.lol in the webbrowser
 
 5. FINISHED!!
 
