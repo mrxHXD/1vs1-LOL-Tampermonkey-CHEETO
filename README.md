@@ -1,4 +1,4 @@
-# 👑1vs1-LOL-Tampermonkey-CHEETO👑
+# 👑1vs1-LOL-Tampermonkey-CHEAT👑
 
 [👑INFO👑]
 This is a free 1vs1 LOL Tampermonkey cheat.
