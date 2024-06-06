@@ -1,6 +1,9 @@
 # 👑1vs1-LOL-Tampermonkey-CHEAT👑
 
 [👑INFO👑]
+
+For educational purposes:
+
 This is a free 1vs1 LOL Tampermonkey cheat.
 This script was created by ChesterCase.
 For more cheats and hack join Anarchy99 Market
