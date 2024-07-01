@@ -6,8 +6,7 @@ For educational purposes:
 
 This is a free 1vs1 LOL Tampermonkey cheat.
 This script was created by ChesterCase.
-For more cheats and hack join Anarchy99 Market
-Link: https://discord.gg/9epB2qCVfK
+For more cheats and hack join [Anarchy99 Market](https://discord.gg/9epB2qCVfK)
 
 [BUGS⚠️]
 If this script has bugs please write a comment.
@@ -16,8 +15,7 @@ BUT if it works for you please "like" (give me a star)
 
 [HOW TO USE💻]
 
-1. FIRST INSTALL Tampermonkey Extension
-link: [LINK](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=eg)
+1. FIRST INSTALL Tampermonkey Extension [LINK](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=eg)
 
 2. Creat an new user script.
 
