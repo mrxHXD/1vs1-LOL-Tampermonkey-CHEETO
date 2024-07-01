@@ -28,3 +28,5 @@ BUT if it works for you please "like" (give me a star)
 
 [SAFE❓]
 This script is FULLY SAFE, that means it ISNT A VIRUS or idk trojan.
+
+![C#](https://www.google.com/imgres?q=C%23&imgurl=https%3A%2F%2Fx-works.at%2Fblog-posts%2Fimages%2Fcsharp.png&imgrefurl=https%3A%2F%2Fx-works.at%2Fblog-posts%2Fcsharp-wie-diese-sprache-die-softwarewelt-formt&docid=ccQXKetih5ALHM&tbnid=JJLE6FgRf0TGLM&vet=12ahUKEwjvu7C5yoaHAxWsnf0HHWjXAF8QM3oECEkQAA..i&w=575&h=300&hcb=2&ved=2ahUKEwjvu7C5yoaHAxWsnf0HHWjXAF8QM3oECEkQAA)
