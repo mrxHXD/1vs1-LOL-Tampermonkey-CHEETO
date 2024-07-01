@@ -28,6 +28,3 @@ BUT if it works for you please "like" (give me a star)
 
 [SAFE❓]
 This script is FULLY SAFE, that means it ISNT A VIRUS or idk trojan.
-
-
-[C#](https://dev.to/techiesdiary/c-new-features-and-improvements-in-c-12-3n3f)
