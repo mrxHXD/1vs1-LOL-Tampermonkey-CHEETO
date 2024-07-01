@@ -17,7 +17,7 @@ BUT if it works for you please "like" (give me a star)
 [HOW TO USE💻]
 
 1. FIRST INSTALL Tampermonkey Extension
-link: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=eg
+link: [LINK](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=eg)
 
 2. Creat an new user script.
 
