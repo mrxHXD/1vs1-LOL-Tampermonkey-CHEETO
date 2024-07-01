@@ -37,9 +37,7 @@ This script is FULLY SAFE, that means it ISNT A VIRUS or idk trojan.
 
 
 
-
-
-
+>
 
 
 
