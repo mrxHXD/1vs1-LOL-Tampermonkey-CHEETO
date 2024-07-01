@@ -22,7 +22,7 @@ BUT if it works for you please "like" (give me a star)
 3. Paste the mainScript code in it
 ...save it
 
-4. Run [1vs1.lol](1vs1.lol)in the webbrowser
+4. Run [1vs1.lol](1vs1.lol) in the webbrowser
 
 5. FINISHED!!
 
